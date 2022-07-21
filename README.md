@@ -1,2 +1,2 @@
 # html-css-course
-This is my first steps of learning html and css language :))
+These are my first steps of learning html and css language :))
